@@ -1,0 +1,6 @@
+###HTTP CONNECTER #####
+
+http:
+   host: "localhost"
+   port: "8087"
+   path: "guru"
